@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloPOOparcial.Entidades", "TrianguloPOOparcial\TrianguloPOOparcial.Entidades.csproj", "{FC3B38D5-3941-4FB3-A966-DAA05A892619}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrianguloPOOparcial.Consola", "TrianguloPOOparcial.Consola\TrianguloPOOparcial.Consola.csproj", "{161BEC04-9AD6-416D-B2A5-3683C130FFB7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC3B38D5-3941-4FB3-A966-DAA05A892619}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC3B38D5-3941-4FB3-A966-DAA05A892619}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC3B38D5-3941-4FB3-A966-DAA05A892619}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC3B38D5-3941-4FB3-A966-DAA05A892619}.Release|Any CPU.Build.0 = Release|Any CPU
+		{161BEC04-9AD6-416D-B2A5-3683C130FFB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{161BEC04-9AD6-416D-B2A5-3683C130FFB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{161BEC04-9AD6-416D-B2A5-3683C130FFB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{161BEC04-9AD6-416D-B2A5-3683C130FFB7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E328C5-237A-4892-AFD5-51230C3DB4CA}
+	EndGlobalSection
+EndGlobal
